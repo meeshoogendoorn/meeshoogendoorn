@@ -4,9 +4,6 @@ I am Mees Hoogendoorn, currently working on a few projects.
 
 [![Kippie Badge](https://img.shields.io/badge/project-kippie.nl-ffd923?style=for-the-badge&logo=appveyor)](https://kippie.nl)
 [![Vissie Badge](https://img.shields.io/badge/project-vissie.nl-54b7e0?style=for-the-badge&logo=appveyor)](https://vissie.nl)
-
-Two ecommerce shops based of Shopware 6 and Shopware-pwa
-
 [![Shopware 6](https://img.shields.io/badge/based%20on-Shopware%206-189eff?style=for-the-badge&logo=appveyor)](https://www.shopware.com/)
 [![Shopware PWA](https://img.shields.io/badge/based%20on-Shopware%20PWA-60d47e)](https://www.vuestorefront.io/shopware)
 
