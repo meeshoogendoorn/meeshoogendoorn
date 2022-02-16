@@ -3,7 +3,6 @@
 I am Mees Hoogendoorn, currently working on a few projects. 
 
 [![Kippie Badge](https://img.shields.io/badge/project-kippie.nl-ffd923?style=for-the-badge&logo=javascript)](https://kippie.nl)
-[![Vissie Badge](https://img.shields.io/badge/project-vissie.nl-54b7e0?style=for-the-badge&logo=javascript)](https://vissie.nl)
 [![Shopware 6](https://img.shields.io/badge/based%20on-Shopware%206-189eff?style=for-the-badge&logo=php)](https://www.shopware.com/)
 [![Shopware PWA](https://img.shields.io/badge/based%20on-Shopware%20PWA-60d47e?style=for-the-badge&logo=javascript)](https://www.vuestorefront.io/shopware)
 
