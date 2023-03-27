@@ -8,7 +8,7 @@ I am Mees Hoogendoorn, currently working on a few projects.
 
 [![Linkedin Badge](https://img.shields.io/badge/-meeshoogendoorn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/meeshoogendoorn/)](https://www.linkedin.com/in/meeshoogendoorn/)
 [![Medium Badge](https://img.shields.io/badge/-@meeshoogendoorn-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@meeshoogendoorn/)](https://medium.com/@meeshoogendoorn)
-[![Gmail Badge](https://img.shields.io/badge/-mees018299@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contact@meeshoogendoorn.dev)](mailto:contact@meeshoogendoorn.dev)
+[![Gmail Badge](https://img.shields.io/badge/-contact@meeshoogendoorn.dev-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contact@meeshoogendoorn.dev)](mailto:contact@meeshoogendoorn.dev)
 
 ## ⚡ Technologies
 
