@@ -1,5 +1,3 @@
-## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
-
 <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> Hello there! I'm Mees Hoogendoorn an enthusiastic eCommerce developer with a passion for crafting exceptional online experiences. Currently, I'm proud to be working at Kippie.nl, where I channel my expertise into optimizing web experiences and maximizing the potential of eCommerce platforms. Architecting our Ecommerce platform and integrations and working out seamless digital experiences are my primary focuses. Currently, my expertise revolves around two powerful technologies: Shopware 6 and Nuxt3.
 
 
