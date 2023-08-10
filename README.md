@@ -1,28 +1,27 @@
-<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> Hello there! I'm Mees Hoogendoorn an enthusiastic eCommerce developer with a passion for crafting exceptional online experiences. Currently, I'm proud to be working at Kippie.nl, where I channel my expertise into optimizing web experiences and maximizing the potential of eCommerce platforms. Architecting our Ecommerce platform and integrations and working out seamless digital experiences are my primary focuses. Currently, my expertise revolves around two powerful technologies: Shopware 6 and Nuxt3.
+# 💫 About Me:
+👋 Hello there! I'm Mees Hoogendoorn, an enthusiastic eCommerce developer with a passion for crafting exceptional online experiences. <br>💻 Currently, I'm proud to be working at Kippie.nl, where I channel my expertise into optimizing web experiences and maximizing the potential of eCommerce platforms. <br>🚀 Architecting Ecommerce platforms and integrations and working out seamless digital experiences are my primary focuses. <br>🏗️ Currently, my expertise revolves around two powerful technologies: Shopware 6 and Nuxt3. 🛠️
 
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/meeshoogendoorn) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/mees0182) 
 
-[![Kippie Badge](https://img.shields.io/badge/project-kippie.nl-ffd923?style=for-the-badge&logo=javascript)](https://kippie.nl)
-[![Shopware 6](https://img.shields.io/badge/based%20on-Shopware%206-189eff?style=for-the-badge&logo=php)](https://www.shopware.com/)
-[![Shopware Frontends](https://img.shields.io/badge/based%20on-Shopware%20Frontends-189eff?style=for-the-badge&logo=shopware)](https://github.com/shopware/frontends)
+# 💻 Tech Stack:
+![NuxtJS](https://img.shields.io/badge/Nuxt-black?style=for-the-badge&logo=nuxt.js&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=meeshoogendoorn\&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=meeshoogendoorn\&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=meeshoogendoorn\&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-[![Linkedin Badge](https://img.shields.io/badge/-meeshoogendoorn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/meeshoogendoorn/)](https://www.linkedin.com/in/meeshoogendoorn/)
-[![Email Badge](https://img.shields.io/badge/-contact@meeshoogendoorn.dev-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contact@meeshoogendoorn.dev)](mailto:contact@meeshoogendoorn.dev)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=meeshoogendoorn\&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## ⚡ Technologies
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.js)
-![Nuxtjs](https://img.shields.io/badge/-Nuxt-black?style=for-the-badge&logo=nuxt.js)
-![Vue](https://img.shields.io/badge/-Vue-black?style=for-the-badge&logo=Vue.js)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=typescript)
-![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql)
-![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker)
-![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
+### 😂 Random Dev Meme
+<img src="https://rm.up.railway.app/" width="512px"/>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=meeshoogendoorn&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meeshoogendoorn&hide=TeX&layout=compact)
+---
+[![](https://visitcount.itsvg.in/api?id=meeshoogendoorn\&icon=7&color=2)](https://visitcount.itsvg.in)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=meeshoogendoorn.meeshoogendoorn)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
